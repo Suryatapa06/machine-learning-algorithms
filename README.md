@@ -6,12 +6,15 @@ The notebooks follow standard course and tutorial exercises, with sources listed
 My original research work is in
 [medical-image-retrieval-se-resnet](https://github.com/Suryatapa06/medical-image-retrieval-se-resnet).
 
-| Notebook | Algorithm | Task | Dataset (not included)
-|---|---|---|---|---|
-| `01_k_means_clustering.ipynb` | K-Means, elbow method | Customer segmentation | Mall Customers (Kaggle)
-| `02_decision_tree_loan_default.ipynb` | Decision tree | Loan repayment prediction | LendingClub `loan_data.csv`
-| `03_ann_customer_churn.ipynb` | Artificial neural network (Keras) | Bank customer churn | Churn_Modelling (Kaggle)
-| `04_svm_diabetes_prediction.ipynb` | Support vector machine | Diabetes prediction, model saved with pickle | PIMA Indians Diabetes
+| Notebook | Algorithm | Task | Dataset (not included) |
+|---|---|---|---|
+| `01_k_means_clustering.ipynb` | K-Means, Elbow Method | Customer Segmentation | Mall Customers (Kaggle) |
+| `02_decision_tree_loan_default.ipynb` | Decision Tree | Loan Repayment Prediction | LendingClub (`loan_data.csv`) |
+| `03_ann_customer_churn.ipynb` | Artificial Neural Network (Keras) | Bank Customer Churn | Churn_Modelling (Kaggle) |
+| `04_svm_diabetes_prediction.ipynb` | Support Vector Machine (SVM) | Diabetes Prediction; Model Saved Using Pickle | PIMA Indians Diabetes |
+
+**Note:** The datasets are not included in this repository. The notebooks contain the corresponding implementations.
+
 
 ## Topics covered
 - Data loading, exploration and visualisation (pandas, matplotlib, seaborn)
